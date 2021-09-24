@@ -268,7 +268,7 @@ body {
     padding-top: 7rem;
     padding-bottom: 5.5rem;
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(file:///C:/Users/HP/Desktop/first%20project/images/header-background.jpg);
+    url('../images/header-background.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -578,7 +578,7 @@ p{
 .service-container .photo{
     height: 430px;
     background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), 
-    url(file:///C:/Users/HP/Desktop/first%20project/images/details-background.jpg) center center no-repeat;
+    url('../images/details-background.jpg') center center no-repeat;
     background-size: cover;
     position: relative;
 }
